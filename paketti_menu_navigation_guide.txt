@@ -1,0 +1,35 @@
+PAKETTI MENU NAVIGATION GUIDE - Solving the "Where's My Device?" Mystery
+
+WHAT YOU'RE SEEING:
+When you right-click to add a device, you likely see:
+- Paketti
+- Paketti Gadgets
+
+INSIDE "Paketti" you might see:
+- Paketti Bassline
+- Paketti Sampler  
+- Paketti Arpeggiator
+- Paketti Chord
+- Paketti Drum
+- And many more...
+
+BUT IF YOU DON'T SEE THESE:
+The menu structure might be different in your version. Let's troubleshoot:
+
+STEP 1: Check your exact menu path
+- Right-click on a track device slot
+- Look for "Paketti" (not "Paketti Gadgets")
+- What EXACT options appear under "Paketti"?
+
+STEP 2: Alternative locations to check:
+- Try the main Renoise menu: Tools → Paketti → Add Device
+- Or check: Insert → Instrument → Paketti
+
+STEP 3: If still missing, you might need to:
+- Ensure Paketti is properly installed
+- Check if you're using the latest version
+- Restart Renoise
+
+QUICK FIX: Try searching for "bass" or "sampler" in the device browser if available.
+
+Please tell me what you ACTUALLY see when you right-click and go to Paketti - this will help me give you exact instructions!

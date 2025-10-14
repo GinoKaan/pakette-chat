@@ -1,0 +1,30 @@
+🎛️ PAKETTI QUICK START GUIDE - For the Overwhelmed User
+
+=== THE INITIAL CONFUSION ===
+You're seeing two main categories when right-clicking:
+1. "Paketti" - The main pattern-based sequencing tools
+2. "Paketti Gadgets" - Utility/helper tools
+
+=== START HERE - 3 SIMPLE STEPS ===
+
+STEP 1: IGNORE THE GADGETS FOR NOW
+- Just use the basic "Paketti" device (not the gadgets)
+- This is your main sample/pattern sequencer
+
+STEP 2: UNDERSTAND THE HIERARCHY
+Paketti → [Various Tools] → [Even More Options]
+The complexity comes from Paketti being a "toolbox" rather than a single tool
+
+STEP 3: RECOMMENDED FIRST CHOICE
+Use "Paketti Bassline" or "Paketti Sampler" - these are the most straightforward starting points
+
+=== WHAT'S HAPPENING? ===
+Paketti is like opening a Swiss Army knife where every tool is visible at once. The default Renoise way is like having one tool at a time.
+
+=== NEXT STEPS ===
+1. Add "Paketti Bassline" to a track
+2. Click the device to open its panel
+3. Load a sample using the sample browser
+4. Use pattern commands to sequence it
+
+Remember: You don't need to understand all the gadgets immediately. Start with one basic Paketti device and expand as needed!
