@@ -4,7 +4,7 @@
 The file `../main-chat.md` contains an AI conversation filled with hallucinations about Pakette. Many tools and methods described don't exist. Other files were made by the AI intended to be quick start, wizards, workflow instructions. They are written well but are entirely hallucinated.
 
 ## Your Task
-1. Read the hallucinated chat
+1. Read the hallucinated chat and generated other files to get a gist of what a basic user would ask and want.
 2. Study the real Pakette documentation.
 3. Search Renoise forums for actual Pakette usage for deep research into origins of tools and usage evolution.
 4. Create `corrected_guide.md` that:
