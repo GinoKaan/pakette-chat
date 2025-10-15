@@ -1,7 +1,7 @@
 # Research Mission on Pakette, a complex tool for Renoise
 
 ## Context
-The file `main-chat.md` contains an AI conversation filled with hallucinations about Pakette. Many tools and methods described don't exist. Other files were made by the AI intended to be quick start, wizards, workflow instructions. They are written well but are entirely hallucinated.
+The file `../main-chat.md` contains an AI conversation filled with hallucinations about Pakette. Many tools and methods described don't exist. Other files were made by the AI intended to be quick start, wizards, workflow instructions. They are written well but are entirely hallucinated.
 
 ## Your Task
 1. Read the hallucinated chat
